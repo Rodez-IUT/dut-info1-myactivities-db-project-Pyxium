@@ -53,7 +53,10 @@ En utilisant l'éditeur de requête "Query Tool" proposé par pgAdmin, utilisez 
 
 - Description de la requête :
 
-    Sélectionner le username et la date de création des utilisateurs créés avant le 1er septembre 2019 triés par ordre alphabétique sur les "username".
+    Sélectionner le username et la date de création 
+	des utilisateurs créés avant le 
+	1er septembre 2019 triés par ordre alphabétique 
+	sur les "username".
 
 > fix #1 requete P1-4-1 sur user
 
@@ -89,7 +92,10 @@ En utilisant l'éditeur de requête "Query Tool" proposé par pgAdmin, utilisez 
 
 - Description de la requête :
 
-    Sélectionner le "title", la description et le "username" du propriétaire de toutes les activités créées après le 1er septembre 2019 triés par ordre alphabétique sur les "title" puis sur les "username".
-    Si une activité n'est attachée à aucun propriétaire, la ligne correspondante doit s'afficher quand même avec le champ "username" laissé vide. 
+    Sélectionner le "title", la description et le "username" du 
+	propriétaire de toutes les activités créées après le 1er septembre 
+	2019 triés par ordre alphabétique sur les "title" puis sur les "username".
+    Si une activité n'est attachée à aucun propriétaire, la ligne correspondante
+	doit s'afficher quand même avec le champ "username" laissé vide. 
 
 > fix #2 requete P1-5.1 sur activity
